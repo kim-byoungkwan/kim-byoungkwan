@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=BK's%20History&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
 
 <div align="center">
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkim-byoungkwan%2Fhit-counter&count_bg=%23191919&title_bg=%23030303&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
   
 <a href="https://suave-lilac-075.notion.site/b1ac3609f8a946c3a1939b5d46211e44?v=cc0f75ec13e54868a33bb57336fb9ee8"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kim-byoungkwan&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/></a>
   

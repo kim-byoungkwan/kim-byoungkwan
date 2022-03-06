@@ -28,6 +28,6 @@
 </p>          
 
 ## Certificate
-- Engineer Information Processing
-- SQLD
-- ADSP
+- <b>Engineer Information Processing</b>
+- <b>SQLD</b>
+- <b>ADSP</b>

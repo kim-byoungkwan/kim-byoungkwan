@@ -20,7 +20,6 @@
  
 </div>
 
-# Repository Quick Start template
 ## Index
   - [Overview](#overview) 
   - [Getting Started](#getting-started)

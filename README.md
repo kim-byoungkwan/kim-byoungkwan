@@ -20,16 +20,10 @@
  
 </div>
 
-## Index
-  - [Overview](#overview) 
-  - [Getting Started](#getting-started)
-  - [Contributing](#contributing)
-  - [Authors](#authors)
-  - [License](#license)
-<!--  Other options to write Readme
-  - [Deployment](#deployment)
-  - [Used or Referenced Projects](Used-or-Referenced-Projects)
--->
+## Stack
+
+
+
 ## About RepositoryTemplate
 <!--Wirte one paragraph of project description -->  
 This project's purpose is to create a make Repository with a collection of default settings  

@@ -13,7 +13,7 @@
  
 
 <a href="https://www.instagram.com/pppassionking/"><img src="http://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://suave-lilac-075.notion.site/Dalchive-ec0bc59746804968a085c2cf46151c80"><img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=notion&logoColor=black"/></a> 
+<a href="https://www.youtube.com/channel/UCIPJAM8maFX2IjriuH1dTlw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=red"/></a> 
 <a href="https://doberrrkwan.tistory.com"><img src="https://img.shields.io/badge/Tistory-E5511E?style=flat-square&logo=Blogger&logoColor=white"/></a>
   
 

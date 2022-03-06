@@ -13,8 +13,7 @@
  
 #E4405F
   
-<a href="https://www.instagram.com/pppassionking/"><img 
-        src="http://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&link=https://www.instagram.com/pppassionking/"
+<a href="https://www.instagram.com/pppassionking/"><img src="http://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&link=https://www.instagram.com/pppassionking/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="https://suave-lilac-075.notion.site/Dalchive-ec0bc59746804968a085c2cf46151c80"><img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
